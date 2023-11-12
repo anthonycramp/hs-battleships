@@ -1,0 +1,22 @@
+type: code
+files:
+  - name: src/Main.kt
+    visible: true
+    highlight_level: NONE
+    text: |-
+      fun main() {
+          val value = readln().toDouble()
+      
+          // Change this line of code
+          val doubleString = String.format("%f",value)
+      
+          println(doubleString )
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/21445#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sat, 11 Nov 2023 01:14:33 UTC"
+record: -1
+submission_language: kotlin

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Battleship (Kotlin)/task" />
+            <option value="$PROJECT_DIR$/Topics/String formatting/Dynamic Double formatting" />
+            <option value="$PROJECT_DIR$/Topics/String formatting/Floating point numbers format string" />
+            <option value="$PROJECT_DIR$/Topics/String formatting/Format Double with a comma and 2 decimal digits" />
+            <option value="$PROJECT_DIR$/Topics/String formatting/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Working with strings/Correct operations" />
+            <option value="$PROJECT_DIR$/Topics/Working with strings/Last symbol" />
+            <option value="$PROJECT_DIR$/Topics/Working with strings/N-th symbol" />
+            <option value="$PROJECT_DIR$/Topics/Working with strings/Operations and truth" />
+            <option value="$PROJECT_DIR$/Topics/Working with strings/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
